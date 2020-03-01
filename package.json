@@ -1,14 +1,14 @@
 {
-  "name": "nodepractice4790",
+  "name": "tanner-node-crud-server",
   "version": "0.0.1",
-  "description": "This is where I practice Node stuff",
+  "description": "A simple CRUD server in Node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon -r esm index.js",
     "callback": "nodemon -r esm callbacks.js"
   },
-  "author": "Thor Anderson",
+  "author": "Tanner Thelin",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.1",
