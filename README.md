@@ -4,7 +4,7 @@
 
 ## GET Requests
 
-### ALL PRODUCTS: hit this endpoint: https://tannerthelin-crud-server.herokuapp.com/admin/getAllProducts 
+### ALL PRODUCTS: hit this endpoint: 
 ### https://tannerthelin-crud-server.herokuapp.com/admin/getAllProducts
 
 ### SINGLE PRODUCT: hit this endpoint: https://tannerthelin-crud-server.herokuapp.com/admin/single-product. In the body enter 'productId' and then this product id 5e4db053fec85ddb8c463457 under the x-www-form-urlencoded. This can pull any item but I just provided a product key to make it easier.
